@@ -1,68 +1,68 @@
-"Electoral District","Party","Candidate","Votes","Percent of Votes"
-"Calgary Centre","Green Party","Austin Mullins",916,"1.6 %"
-"Calgary Centre","NDP-New Democratic Party","Juan Estevez Moreno",9097,"16.3 %"
-"Calgary Centre","Christian Heritage Party","Dawid Pawlowski",553,"1.0 %"
-"Calgary Centre","Conservative","Greg McLean",28786,"51.7 %"
-"Calgary Centre","Liberal","Sabrina Grover",16316,"29.3 %"
-"Calgary Confederation","NDP-New Democratic Party","Gulshan Akter",9948,"17.2 %"
-"Calgary Confederation","Conservative","Len Webber",26801,"46.4 %"
-"Calgary Confederation","People's Party - PPC","Edward Gao",2596,"4.5 %"
-"Calgary Confederation","Green Party","Natalie Odd",2147,"3.7 %"
-"Calgary Confederation","Marxist-Leninist","Kevan Hunter",168,"0.3 %"
-"Calgary Confederation","Liberal","Murray Sigler",16150,"27.9 %"
-"Calgary Forest Lawn","Liberal","Jordan Stein",9308,"27.6 %"
-"Calgary Forest Lawn","Green Party","Carey Rutherford",681,"2.0 %"
-"Calgary Forest Lawn","NDP-New Democratic Party","Keira Gunn",6049,"17.9 %"
-"Calgary Forest Lawn","People's Party - PPC","Dwayne Holub",2482,"7.4 %"
-"Calgary Forest Lawn","Communist","Jonathan Trautman",184,"0.5 %"
-"Calgary Forest Lawn","Conservative","Jasraj Singh Hallan",15020,"44.5 %"
-"Calgary Heritage","NDP-New Democratic Party","Kathleen M. Johnson",8840,"17.3 %"
-"Calgary Heritage","Liberal","Scott Forsyth",8395,"16.4 %"
-"Calgary Heritage","Green Party","Malka Labell",741,"1.4 %"
-"Calgary Heritage","Maverick Party","Annelise Freeman",695,"1.4 %"
-"Calgary Heritage","Conservative","Bob Benzen",29638,"57.9 %"
-"Calgary Heritage","Parti Rhinocéros Party","Mark Dejewski",252,"0.5 %"
-"Calgary Heritage","People's Party - PPC","Bailey Bedard",2628,"5.1 %"
-"Calgary Midnapore","Green Party","Shaun T. Pulsifer",824,"1.3 %"
-"Calgary Midnapore","Maverick Party","Matt Magolan",773,"1.3 %"
-"Calgary Midnapore","Liberal","Zarnab Zafar",7515,"12.2 %"
-"Calgary Midnapore","Conservative","Stephanie Kusie",37455,"60.8 %"
-"Calgary Midnapore","People's Party - PPC","Jonathan Hagel",3819,"6.2 %"
-"Calgary Midnapore","NDP-New Democratic Party","Gurmit Bhachu",11201,"18.2 %"
-"Calgary Nose Hill","Liberal","Jessica Dale-Walker",9815,"20.3 %"
-"Calgary Nose Hill","NDP-New Democratic Party","Khalis Ahmed",8076,"16.7 %"
-"Calgary Nose Hill","National Citizens Alliance","Stephen J Garvey",64,"0.1 %"
-"Calgary Nose Hill","Green Party","Judson Hansell",614,"1.3 %"
-"Calgary Nose Hill","Parti Rhinocéros Party","Vanessa Wang",267,"0.6 %"
-"Calgary Nose Hill","Conservative","Michelle Rempel Garner",26904,"55.7 %"
-"Calgary Nose Hill","People's Party - PPC","Kyle Scott",2281,"4.7 %"
-"Calgary Nose Hill","Christian Heritage Party","Larry R. Heather",165,"0.3 %"
-"Calgary Nose Hill","Marxist-Leninist","Peggy Askin",102,"0.2 %"
-"Calgary Rocky Ridge","Green Party","Catriona Wright",986,"1.6 %"
-"Calgary Rocky Ridge","Maverick Party","David Robinson",519,"0.8 %"
-"Calgary Rocky Ridge","Conservative","Pat Kelly",34181,"54.8 %"
-"Calgary Rocky Ridge","People's Party - PPC","Rory MacLeod",2898,"4.6 %"
-"Calgary Rocky Ridge","Liberal","Shahnaz Munir",13667,"21.9 %"
-"Calgary Rocky Ridge","NDP-New Democratic Party","Jena Dianne Kieren",10136,"16.2 %"
-"Calgary Shepard","Liberal","Cam Macdonald",9704,"13.8 %"
-"Calgary Shepard","Maverick Party","Andrea Lee",871,"1.2 %"
-"Calgary Shepard","National Citizens Alliance","Jesse Halmo",74,"0.1 %"
-"Calgary Shepard","Conservative","Tom Kmiec",42340,"60.4 %"
-"Calgary Shepard","People's Party - PPC","Ron Vaillant",4159,"5.9 %"
-"Calgary Shepard","Independent","Konstantine Muirhead",213,"0.3 %"
-"Calgary Shepard","NDP-New Democratic Party","Raj Jessel",11551,"16.5 %"
-"Calgary Shepard","Green Party","Evelyn Tanaka",1237,"1.8 %"
-"Calgary Signal Hill","NDP-New Democratic Party","Patrick King",8411,"14.8 %"
-"Calgary Signal Hill","Maverick Party","Ajay Copp",535,"0.9 %"
-"Calgary Signal Hill","Conservative","Ron Liepert",33265,"58.4 %"
-"Calgary Signal Hill","People's Party - PPC","Nick Debrey",2772,"4.9 %"
-"Calgary Signal Hill","Liberal","Shawn Duncan",11005,"19.3 %"
-"Calgary Signal Hill","Green Party","Keiran Corrigall",1016,"1.8 %"
-"Calgary Skyview","Centrist","Nadeem Rana",93,"0.2 %"
-"Calgary Skyview","NDP-New Democratic Party","Gurinder Singh Gill",7443,"16.3 %"
-"Calgary Skyview","Green Party","Janna So",421,"0.9 %"
-"Calgary Skyview","Liberal","George Chahal",19472,"42.7 %"
-"Calgary Skyview","Independent","Lee Aquart",178,"0.4 %"
-"Calgary Skyview","Conservative","Jag Sahota",16230,"35.6 %"
-"Calgary Skyview","Marxist-Leninist","Daniel Blanchard",106,"0.2 %"
-"Calgary Skyview","People's Party - PPC","Harry Dhillon",1685,"3.7 %"
+Electoral District,Party,Candidate,Votes,Percent of Votes
+Calgary Centre,Green Party,Austin Mullins,916,1.6 %
+Calgary Centre,NDP-New Democratic Party,Juan Estevez Moreno,9097,16.3 %
+Calgary Centre,Christian Heritage Party,Dawid Pawlowski,553,1.0 %
+Calgary Centre,Conservative,Greg McLean,28786,51.7 %
+Calgary Centre,Liberal,Sabrina Grover,16316,29.3 %
+Calgary Confederation,NDP-New Democratic Party,Gulshan Akter,9948,17.2 %
+Calgary Confederation,Conservative,Len Webber,26801,46.4 %
+Calgary Confederation,People's Party - PPC,Edward Gao,2596,4.5 %
+Calgary Confederation,Green Party,Natalie Odd,2147,3.7 %
+Calgary Confederation,Marxist-Leninist,Kevan Hunter,168,0.3 %
+Calgary Confederation,Liberal,Murray Sigler,16150,27.9 %
+Calgary Forest Lawn,Liberal,Jordan Stein,9308,27.6 %
+Calgary Forest Lawn,Green Party,Carey Rutherford,681,2.0 %
+Calgary Forest Lawn,NDP-New Democratic Party,Keira Gunn,6049,17.9 %
+Calgary Forest Lawn,People's Party - PPC,Dwayne Holub,2482,7.4 %
+Calgary Forest Lawn,Communist,Jonathan Trautman,184,0.5 %
+Calgary Forest Lawn,Conservative,Jasraj Singh Hallan,15020,44.5 %
+Calgary Heritage,NDP-New Democratic Party,Kathleen M. Johnson,8840,17.3 %
+Calgary Heritage,Liberal,Scott Forsyth,8395,16.4 %
+Calgary Heritage,Green Party,Malka Labell,741,1.4 %
+Calgary Heritage,Maverick Party,Annelise Freeman,695,1.4 %
+Calgary Heritage,Conservative,Bob Benzen,29638,57.9 %
+Calgary Heritage,Parti Rhinoceros Party,Mark Dejewski,252,0.5 %
+Calgary Heritage,People's Party - PPC,Bailey Bedard,2628,5.1 %
+Calgary Midnapore,Green Party,Shaun T. Pulsifer,824,1.3 %
+Calgary Midnapore,Maverick Party,Matt Magolan,773,1.3 %
+Calgary Midnapore,Liberal,Zarnab Zafar,7515,12.2 %
+Calgary Midnapore,Conservative,Stephanie Kusie,37455,60.8 %
+Calgary Midnapore,People's Party - PPC,Jonathan Hagel,3819,6.2 %
+Calgary Midnapore,NDP-New Democratic Party,Gurmit Bhachu,11201,18.2 %
+Calgary Nose Hill,Liberal,Jessica Dale-Walker,9815,20.3 %
+Calgary Nose Hill,NDP-New Democratic Party,Khalis Ahmed,8076,16.7 %
+Calgary Nose Hill,National Citizens Alliance,Stephen J Garvey,64,0.1 %
+Calgary Nose Hill,Green Party,Judson Hansell,614,1.3 %
+Calgary Nose Hill,Parti Rhinoceros Party,Vanessa Wang,267,0.6 %
+Calgary Nose Hill,Conservative,Michelle Rempel Garner,26904,55.7 %
+Calgary Nose Hill,People's Party - PPC,Kyle Scott,2281,4.7 %
+Calgary Nose Hill,Christian Heritage Party,Larry R. Heather,165,0.3 %
+Calgary Nose Hill,Marxist-Leninist,Peggy Askin,102,0.2 %
+Calgary Rocky Ridge,Green Party,Catriona Wright,986,1.6 %
+Calgary Rocky Ridge,Maverick Party,David Robinson,519,0.8 %
+Calgary Rocky Ridge,Conservative,Pat Kelly,34181,54.8 %
+Calgary Rocky Ridge,People's Party - PPC,Rory MacLeod,2898,4.6 %
+Calgary Rocky Ridge,Liberal,Shahnaz Munir,13667,21.9 %
+Calgary Rocky Ridge,NDP-New Democratic Party,Jena Dianne Kieren,10136,16.2 %
+Calgary Shepard,Liberal,Cam Macdonald,9704,13.8 %
+Calgary Shepard,Maverick Party,Andrea Lee,871,1.2 %
+Calgary Shepard,National Citizens Alliance,Jesse Halmo,74,0.1 %
+Calgary Shepard,Conservative,Tom Kmiec,42340,60.4 %
+Calgary Shepard,People's Party - PPC,Ron Vaillant,4159,5.9 %
+Calgary Shepard,Independent,Konstantine Muirhead,213,0.3 %
+Calgary Shepard,NDP-New Democratic Party,Raj Jessel,11551,16.5 %
+Calgary Shepard,Green Party,Evelyn Tanaka,1237,1.8 %
+Calgary Signal Hill,NDP-New Democratic Party,Patrick King,8411,14.8 %
+Calgary Signal Hill,Maverick Party,Ajay Copp,535,0.9 %
+Calgary Signal Hill,Conservative,Ron Liepert,33265,58.4 %
+Calgary Signal Hill,People's Party - PPC,Nick Debrey,2772,4.9 %
+Calgary Signal Hill,Liberal,Shawn Duncan,11005,19.3 %
+Calgary Signal Hill,Green Party,Keiran Corrigall,1016,1.8 %
+Calgary Skyview,Centrist,Nadeem Rana,93,0.2 %
+Calgary Skyview,NDP-New Democratic Party,Gurinder Singh Gill,7443,16.3 %
+Calgary Skyview,Green Party,Janna So,421,0.9 %
+Calgary Skyview,Liberal,George Chahal,19472,42.7 %
+Calgary Skyview,Independent,Lee Aquart,178,0.4 %
+Calgary Skyview,Conservative,Jag Sahota,16230,35.6 %
+Calgary Skyview,Marxist-Leninist,Daniel Blanchard,106,0.2 %
+Calgary Skyview,People's Party - PPC,Harry Dhillon,1685,3.7 %
